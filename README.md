@@ -98,6 +98,7 @@
 - 🛢️ Indian Oil Corporation Limited (IOCL) Summer Intern
 - 💼 BWS Frontend Intern
 - 🏆 Participated in Smart India Hackathon (SIH)
+- 🏆 Conducted a National Level Hackathon Bitbox 4.0
 
 ## 📫 Let's Connect
 
@@ -118,9 +119,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shivangi10-10&theme=radical" alt="GitHub Streak">
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Shivangi10-10&theme=radical" alt="Wakatime Stats">
-</p>
+
 
 ## 🎯 Fun Fact
 
@@ -134,6 +133,3 @@ Did you know? I can debug code faster than you can say "Stack Overflow"! 😉
   <img src="https://komarev.com/ghpvc/?username=Shivangi10-10&color=blueviolet" alt="Profile Views">
 </p>
 
-<p align="center">
-  <img src="https://github.com/Shivangi10-10/Shivangi10-10/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
-</p>
