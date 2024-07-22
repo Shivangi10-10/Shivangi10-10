@@ -14,7 +14,6 @@
 - 💻 Full-stack developer with a knack for creating innovative solutions
 - 🌟 Google Developer Students Club Community Lead
 - 🔍 Strong analytical skills and attention to detail
-- 🌐 Open Source Enthusiast
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif">
 
