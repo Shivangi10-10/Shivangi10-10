@@ -16,7 +16,7 @@
 - 🔍 Strong analytical skills and attention to detail
 - 🌐 Open Source Enthusiast
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif">
+<img align="right" alt="Coding" width="400" src="[https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)">
 
 ## 🛠️ Tech Stack
 
