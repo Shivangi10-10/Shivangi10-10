@@ -120,6 +120,7 @@
 
 
 
+
 ## 🎯 Fun Fact
 
 <p align="center">
@@ -129,3 +130,16 @@
 Did you know? I can debug code faster than you can say "Stack Overflow"! 😉
 
 
+
+## GitHub Contribution Overview
+
+```mermaid
+quadrantChart
+    title GitHub Contribution Overview
+    x-axis Low Issues --> High Issues
+    y-axis Low Pull Requests --> High Pull Requests
+    quadrant-1 High Activity
+    quadrant-2 Issue-Focused
+    quadrant-3 Low Activity
+    quadrant-4 PR-Focused
+    Commits: [0.95, 0.5]
