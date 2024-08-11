@@ -92,6 +92,20 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Shivangi10-10&theme=dracula&column=7" alt="GitHub Profile Trophy">
 </p>
 
+## 🎓 Certifications
+
+I'm constantly learning and improving my skills. Check out my [Certifications Repository](https://github.com/Shivangi10-10/certificates) for a complete list of my achievements!
+
+### Recent Certifications:
+- [Cloud Computing](https://github.com/Shivangi10-10/certificates/blob/main/cloud_computing.pdf) - Infosys Springboard
+- [Jira](https://github.com/Shivangi10-10/certificates/blob/main/jira.pdf) - Infosys Springboard
+- [Computer Networking](https://github.com/Shivangi10-10/certificates/blob/main/computer_networking.pdf) - Infosys Springboard
+
+### Hackathon Participations:
+- [Flipkart Grid 5.0 - Level 1.2](https://github.com/Shivangi10-10/certificates/blob/main/grid.pdf)
+- [JJ Crackathon](https://github.com/Shivangi10-10/certificates/blob/main/jj%20crackathon.pdf)
+- [TVS Credit Hackathon on Unstop](https://github.com/Shivangi10-10/certificates/blob/main/tvs.pdf)
+
 ## 🏅 Achievements
 
 - 🛢️ Indian Oil Corporation Limited (IOCL) Summer Intern
