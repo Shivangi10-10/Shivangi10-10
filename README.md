@@ -7,7 +7,8 @@
 </p>
 
 <h2 align="center">A passionate full-stack developer and problem solver from India 🇮🇳</h2>
-## 🚀 About Me
+
+### 🚀 About Me
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif">
 
