@@ -7,14 +7,17 @@
 </p>
 
 <h2 align="center">A passionate full-stack developer and problem solver from India 🇮🇳</h2>
+🚀 About Me
 
-## 🚀 About Me
-
-- 🎓 B.Tech in Computer Science Engineering (2025) from Jaypee Institute of Information Technology
-- 💻 Full-stack developer with a knack for creating innovative solutions
-- 🌟 Google Developer Students Club Community Lead
-- 🔍 Strong analytical skills and attention to detail
-
+🎓 B.Tech in Computer Science Engineering (2025) from Jaypee Institute of Information Technology
+💻 Full-stack developer with expertise in cloud computing and project management
+🌟 Google Developer Students Club Community Lead
+🏆 Hackathon enthusiast: Participated in Flipkart Grid 5.0, JJ Crackathon, and TVS Credit Hackathon
+☁️ Certified in Cloud Computing from Infosys Springboard
+🔧 Proficient in Jira for agile project management
+🌐 Strong foundation in Computer Networking
+🔍 Keen problem-solver with a passion for innovative solutions
+📚 Committed to continuous learning and skill development
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif">
 
 ## 🎓 Certifications
