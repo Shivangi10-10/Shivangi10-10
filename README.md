@@ -49,15 +49,10 @@ I'm constantly learning and improving my skills. Check out my [Certifications Re
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
 
 ### Backend
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 
 ### Databases
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
@@ -73,12 +68,6 @@ I'm constantly learning and improving my skills. Check out my [Certifications Re
 ![Apache Kafka](https://img.shields.io/badge/-Apache_Kafka-231F20?style=flat-square&logo=apache-kafka)
 ![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx)
 
-### Other Skills
-![Data Structures](https://img.shields.io/badge/-Data_Structures-FFA116?style=flat-square&logo=leetcode&logoColor=white)
-![Algorithms](https://img.shields.io/badge/-Algorithms-00BCB4?style=flat-square&logo=thealgorithms&logoColor=white)
-![Operating Systems](https://img.shields.io/badge/-Operating_Systems-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Computer Networks](https://img.shields.io/badge/-Computer_Networks-0078D4?style=flat-square&logo=cisco&logoColor=white)
-![DBMS](https://img.shields.io/badge/-DBMS-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivangi10-10&layout=compact&theme=radical" alt="Top Languages">
