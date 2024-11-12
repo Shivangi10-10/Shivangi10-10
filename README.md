@@ -76,13 +76,11 @@ I'm constantly learning and improving my skills. Check out my [Certifications Re
 ## 🏆 Projects
 
 ### Conference Room Booking System
-- 🔗 [Live Demo](https://final-project-seven-orcin.vercel.app/)
 - 📊 Reduced booking conflicts by 90%
 - 🚀 Improved resource utilization by 40%
 - ⏱️ Streamlined booking process, cutting average reservation time from 15 minutes to under 2 minutes
 
 ### Homeless Hearts
-- 🔗 [Live Demo](https://homeless-hearts-final.vercel.app/)
 - 🐾 Enhanced volunteer engagement by 75%
 - ⚡ Increased response time to animal welfare issues by 60%
 - 🤖 Improved user assistance by 40% with AI-powered chatbots
