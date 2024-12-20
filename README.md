@@ -102,18 +102,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Shivangi10-10&show_icons=true&theme=radical" alt="Shivangi's GitHub Stats">
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shivangi10-10&theme=radical" alt="GitHub Streak">
-</p>
-
-<p align="center">
-  <b>Maximum Profile Views:</b> <img src="https://komarev.com/ghpvc/?username=Shivangi10-10&color=brightgreen" alt="Profile Views">
-</p>
 
 ## 🎯 Fun Fact
 
-<p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300">
-</p>
 
 Did you know? I can debug code faster than you can say "Stack Overflow"! 😉
