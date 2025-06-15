@@ -1,17 +1,17 @@
 *<h1 align="center">Hi there, I'm Shivangi Suyash 👋</h1>
-<h3 align="center">Full-Stack Developer | Cloud Enthusiast | Community Leader | GDSC Lead</h3>
+<h3 align="center"> Developer | Cloud Enthusiast | Community Leader | GDSC Lead</h3>
 
 ---
 
 ### 🚀 About Me
 
-I'm a results-driven Computer Science undergraduate (B.Tech, 2025) passionate about building robust, scalable, and meaningful tech products. As the Google Developer Student Clubs Lead and a multiple-time national hackathon finalist, I bring together strong development skills with leadership, collaboration, and a bias for action.
+I'm a results-driven Computer Science undergraduate (B.Tech, 2025) passionate about building robust, scalable, and meaningful tech products. As the Google Developer Student Clubs Lead and I bring together strong development skills with leadership, collaboration, and a bias for action.
 
 ---
 
 ### 💼 Professional Languages & Projects
 
-- **C++**: Core language for DSA, competitive programming, and system-level logic.
+- **C++**: Core language. 
 - **Python**:  
   ➤ *PDF Merger Tool* – Automated file merging with Tkinter GUI.  
   ➤ *AI Prototypes* – Rapid prototyping for AI-based hackathon submissions.
@@ -28,7 +28,7 @@ I'm a results-driven Computer Science undergraduate (B.Tech, 2025) passionate ab
 ### 🏆 Highlights & Achievements
 
 - 🎯 **GDSC Lead** – Mentored 100+ students in tech workshops & community initiatives  
-- 💡 **Hackathon Finalist** – Flipkart Grid 5.0, TVS Credit, JJ Crackathon  
+- 💡 **Hackathons I've Participated In** – Flipkart Grid 5.0, TVS Credit, JJ Crackathon  
 - 🛢️ **Summer Intern at IOCL** – Applied software skills to real-world use cases  
 - 🧠 **Smart India Hackathon** – National-level participant  
 - 👩‍💻 **Organizer** – BitBox 4.0: JIIT’s largest hackathon  
@@ -53,7 +53,7 @@ I'm a results-driven Computer Science undergraduate (B.Tech, 2025) passionate ab
 `Git` `Docker` `AWS` `Kafka` `Nginx`
 
 **Tools & Platforms:**  
-`VS Code` `Jira` `Postman` `Figma` `Vercel`
+`VS Code` `Jira` `Postman`  `Vercel`
 
 ---
 
@@ -92,4 +92,4 @@ I'm a results-driven Computer Science undergraduate (B.Tech, 2025) passionate ab
 
 ### 💬 Fun Fact  
  I learn new frameworks like most people binge Netflix.
-**
+
